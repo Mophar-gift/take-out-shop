@@ -4,7 +4,7 @@
     <router-view></router-view>
     
     <!-- Footer界面 -->
-    <footer-guide></footer-guide>
+    <footer-guide v-show="$route.meta.isShowFooter"></footer-guide>
   </div>
 </template>
 

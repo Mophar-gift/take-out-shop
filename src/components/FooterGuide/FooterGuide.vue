@@ -62,6 +62,7 @@ export default {
   bottom: 0;
   height: 50px;
   width: 100%;
+  background #fff
 }
 
 .footer-guide-item {
@@ -76,7 +77,7 @@ export default {
 
   span {
     font-size: 12px;
-    margin-top: 4px;
+    margin-top: 6px;
 
     i {
       font-size: 22px;
